@@ -1,5 +1,4 @@
-# PORK - Python tags parser for Word files
-
+# PORK - Python template parser for generating .docx Word files
 *Pork* is a template engine which parses annotated text file and renders native Word .docx file - similar to Markdown -> HTML processing.
 
 # Tags supported by **Pork**
